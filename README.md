@@ -8,4 +8,4 @@ Press F10 to stop clicking.<br>
 Close the application by right clicking on the icon in the system tray and choose 'Exit'.
 
 <h2>How to download</h2>
-go to [releases](https://github.com/iniasdb/autoclicker/releases) and download the latest version (JAR file)
+go to <a href="https://github.com/iniasdb/autoclicker/releases">releases</a> and download the latest version (JAR file)
